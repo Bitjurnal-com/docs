@@ -1,4 +1,4 @@
-# What is MyProduct?
+# Pengenalan
 
 {% hint style="info" %}
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
@@ -54,8 +54,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [projects.md](fundamentals/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="faq/admin.md" %}
+[admin.md](faq/admin.md)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/task-lists.md" %}

@@ -11,7 +11,6 @@
 ## Fundamentals
 
 * [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
 * [Task Lists](fundamentals/task-lists.md)
 * [Tasks](fundamentals/tasks.md)
 
@@ -27,3 +26,4 @@
 ## FAQ
 
 * [Trust Wallet](faq/trust-wallet.md)
+* [Admin](faq/admin.md)
