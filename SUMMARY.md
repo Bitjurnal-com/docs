@@ -24,6 +24,6 @@
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
 
-## Extras
+## FAQ
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Trust Wallet](faq/trust-wallet.md)
