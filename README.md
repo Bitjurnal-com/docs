@@ -1,11 +1,34 @@
 # Pengenalan
 
-Ngobrolin apa aja, cryptocurrency, signal trading, dan info menarik lainnya:
+{% hint style="info" %}
+**SYARAT:** Investor setuju dengan resiko pengurangan nilai ataupun kehilangan terhadap aset yang sudah dipercayakan kepada Bitjurnal Capital.
+{% endhint %}
 
-> 1. Invest Crypto, longterm
-> 2. Trading
-> 3. Jual Beli bsc, xdai, dll eceran
-> 4. Ngobrol gak jelas
+**KETENTUAN**
+
+Initial Coin Offering (ICO)&#x20;
+
+Bitjurnal Capital mengeluarkan BLT Token dengan harga yang sudah ditentukan diawal namun suplainya mengikuti seluruh modal yang terkumpul pada saat ICO.
+
+Minting&#x20;
+
+Penambahan jumlah suplai ketika ada penambahan nilai investasi baik dari investor lama ataupun investor baru.&#x20;
+
+Burn&#x20;
+
+Token akan dibakar ketika ada pengurangan nilai investasi dari investor yang melakukan redeem atau penarikan dana investasi.
+
+Dividen&#x20;
+
+Bagi hasil dilakukan sesuai kesepakatan bersama bisa dilakukan dalam periode tertentu.
+
+Operasional&#x20;
+
+Bitjurnal Capital menjalankan seluruh kegiatan operasional berdasarkan strategi yang sudah di rencanakan.
+
+Biaya&#x20;
+
+Biaya bisa dikenakan pada kegiatan operasional maupun biaya tambahan lainnya.
 
 ## Cara Memulai
 
@@ -29,14 +52,14 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="strategi/fundamental-analysis.md" %}
-[fundamental-analysis.md](strategi/fundamental-analysis.md)
+{% content-ref url="strategi/fundamental-research.md" %}
+[fundamental-research.md](strategi/fundamental-research.md)
 {% endcontent-ref %}
 
-{% content-ref url="strategi/technical-analysis.md" %}
-[technical-analysis.md](strategi/technical-analysis.md)
+{% content-ref url="strategi/early-adopters.md" %}
+[early-adopters.md](strategi/early-adopters.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
+{% content-ref url="strategi/seed-investor.md" %}
+[seed-investor.md](strategi/seed-investor.md)
+{% endcontent-ref %}

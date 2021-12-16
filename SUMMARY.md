@@ -10,12 +10,13 @@
 
 ## Strategi
 
-* [Fundamental Analysis](strategi/fundamental-analysis.md)
-* [Technical Analysis](strategi/technical-analysis.md)
+* [Fundamental Research](strategi/fundamental-research.md)
+* [Early Adopters](strategi/early-adopters.md)
+* [Seed Investor](strategi/seed-investor.md)
 
 ## Tokenomi
 
-* [BLT](tokenomi/blt.md)
+* [Bitjurnal Labs Token](tokenomi/bitjurnal-labs-token.md)
 
 ## FAQ
 
