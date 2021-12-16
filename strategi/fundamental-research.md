@@ -1,5 +1,7 @@
-# Projects
+# Fundamental Research
 
 {% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
+**Riset secara fundamental**
+
+Riset yang dilakukan untuk mengetahui seberapa besar kemampuan developer untuk menjalankan proyek (tim dibalik pengembangan), mengetahui strategi tokenomic (tokenomics), mengetahui strategi pemasaran (marketing), perjalanan pengembangan proyek (roadmap).
 {% endhint %}

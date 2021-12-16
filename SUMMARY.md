@@ -13,6 +13,7 @@
 * [Fundamental Research](strategi/fundamental-research.md)
 * [Early Adopters](strategi/early-adopters.md)
 * [Seed Investor](strategi/seed-investor.md)
+* [Partnership](strategi/partnership.md)
 
 ## Tokenomi
 

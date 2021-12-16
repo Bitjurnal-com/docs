@@ -1,24 +1,27 @@
 # Pengenalan
 
 {% hint style="info" %}
-**SYARAT:** Investor setuju dengan resiko pengurangan nilai ataupun kehilangan terhadap aset yang sudah dipercayakan kepada Bitjurnal Capital.
+**SYARAT:**
+
+Investor setuju dengan resiko pengurangan nilai ataupun kehilangan terhadap aset yang sudah dipercayakan kepada Bitjurnal Capital.
 {% endhint %}
 
-**KETENTUAN**
+{% hint style="info" %}
+**KETENTUAN:**
 
-Initial Coin Offering (ICO)&#x20;
+_Initial Coin Offering (ICO)_&#x20;
 
-Bitjurnal Capital mengeluarkan BLT Token dengan harga yang sudah ditentukan diawal namun suplainya mengikuti seluruh modal yang terkumpul pada saat ICO.
+Bitjurnal Capital mengeluarkan Bitjurnal Labs Token (BLT)  dengan harga yang sudah ditentukan diawal namun suplainya mengikuti seluruh modal yang terkumpul pada saat ICO.
 
-Minting&#x20;
+_Minting_&#x20;
 
 Penambahan jumlah suplai ketika ada penambahan nilai investasi baik dari investor lama ataupun investor baru.&#x20;
 
-Burn&#x20;
+_Burning_&#x20;
 
 Token akan dibakar ketika ada pengurangan nilai investasi dari investor yang melakukan redeem atau penarikan dana investasi.
 
-Dividen&#x20;
+_Dividen_&#x20;
 
 Bagi hasil dilakukan sesuai kesepakatan bersama bisa dilakukan dalam periode tertentu.
 
@@ -29,6 +32,9 @@ Bitjurnal Capital menjalankan seluruh kegiatan operasional berdasarkan strategi 
 Biaya&#x20;
 
 Biaya bisa dikenakan pada kegiatan operasional maupun biaya tambahan lainnya.
+{% endhint %}
+
+****
 
 ## Cara Memulai
 

@@ -1,5 +1,7 @@
-# Task Lists
+# Early Adopters
 
 {% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
+**Menjadi pengguna pertama**
+
+Menjadi bagian dari pengguna awal sebuah proyek adalah mengukur seberapa besar potensi produk yang dihasilkan.
 {% endhint %}
