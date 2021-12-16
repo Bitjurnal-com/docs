@@ -54,7 +54,7 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [investor.md](level/investor.md)
 {% endcontent-ref %}
 
-### Strategi Bitjurnal Crypto
+## Strategi Bitjurnal Crypto
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
