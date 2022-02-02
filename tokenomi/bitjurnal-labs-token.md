@@ -13,9 +13,11 @@ Symbol    : BLT
 
 Desimal    : 18
 
+Suplai    : 100.000.000 BLT
+
 Tipe        : BEP-20
 
-Suplai    : Tidak Terbatas
+Kontrak : 0xf4cd7f6c5915104598e9830a422bbbe821c1cc32
 
 
 
