@@ -10,6 +10,7 @@
 
 ## Strategi
 
+* [Team](strategi/team.md)
 * [Fundamental Research](strategi/fundamental-research.md)
 * [Early Adopters](strategi/early-adopters.md)
 * [Seed Investor](strategi/seed-investor.md)
@@ -22,4 +23,3 @@
 ## FAQ
 
 * [Trust Wallet](faq/trust-wallet.md)
-* [Admin](faq/admin.md)
